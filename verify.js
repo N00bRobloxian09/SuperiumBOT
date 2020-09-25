@@ -23,7 +23,7 @@ if(message.member.roles.cache.has(verifiedRole)) { // check if user has the role
 let msg = await message.channel.send("verification START") // Send a message for awaiting.
 function makeid() {
 var text = "";
-var randomText = ['stud','brick','emoji','lol']; // Emoji list This can be used for words.
+var randomText = ['stud','brick','emoji','superium','car','trade','limited','item','cool','beans','amazing','bus','rare','verify','bruh','hello']; // Emoji list This can be used for words.
 text += randomText[Math.floor(Math.random() * randomText.length)];
 text += randomText[Math.floor(Math.random() * randomText.length)];
 return text;
