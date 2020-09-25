@@ -11,8 +11,11 @@
   <h3 align="center">funny</h3>
 
   <p align="center">
-    yeah
+    yeah u need some coding skills to get this to work, i mean its easy but who cares
     <br />
+    u can use my command handler if u want
+    <br />
+    packes u need are in packages.json
     <a href="#"><strong>Docs »</strong></a>
     <br />
     <br />
