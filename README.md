@@ -1,5 +1,6 @@
 ![Size](https://img.shields.io/github/repo-size/N00bRobloxian09/SuperiumBOT?style=plastic)
-
+![Downloads](https://img.shields.io/github/downloads/N00bRobloxian09/SuperiumBOT/total?style=plastic)
+<a> stats for weird people </a>
 
 <br />
 <p align="center">
