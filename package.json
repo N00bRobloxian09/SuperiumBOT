@@ -1,0 +1,25 @@
+{
+  "name": "superiumbot",
+  "version": "1.2.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "log-symbols": "^3.0.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.0",
+    "snekfetch": "^4.0.4",
+    "request": "^2.88.2"
+  }
+}
