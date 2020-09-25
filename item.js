@@ -1,4 +1,4 @@
-//finds information about the item by the specified ID
+//finds information about the item by the specified ID 
 
 const Discord = require("discord.js");
 const { readdirSync } = require("fs");
