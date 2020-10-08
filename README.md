@@ -1,5 +1,6 @@
 ![Size](https://img.shields.io/github/repo-size/N00bRobloxian09/SuperiumBOT?style=plastic)
 ![Downloads](https://img.shields.io/github/downloads/N00bRobloxian09/SuperiumBOT/total?style=plastic)
+[![HitCount](http://hits.dwyl.com/N00bRobloxian09/SuperiumBOT.svg)](http://hits.dwyl.com/N00bRobloxian09/SuperiumBOT)
 <br />
 <a> stats for weird people </a>
 
