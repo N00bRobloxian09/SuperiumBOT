@@ -11,6 +11,7 @@
   </a>
 
   <h3 align="center">A Superium Discord bot written in node.js that allows you to view user and asset info.</h3>
+  <h3 align="center">I added a verify system, enjoy :).</h3>
 
   <p align="center">
     someone stole my bot token so im releasing this poop enjoy<br />
@@ -22,7 +23,7 @@
     <a href="#"><strong>Docs »</strong></a>
     <br />
     <br />
-    <a href="#">Demo</a>
+  <a href="https://www.youtube.com/watch?v=LB-khYNW1Q4">Verify Demo</a> <a>|</a> <a href="https://cdn.discordapp.com/attachments/715501850027360336/755508765272440832/2020-09-15-20-39-13.mp4"> Other commands Demo </a>
     ·
     <a href="#">Report Bug (dm me N00bRobloxian09#8812)</a>
     ·
