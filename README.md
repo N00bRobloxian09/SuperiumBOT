@@ -10,9 +10,10 @@
     <img src="junk/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">someone stole my bot token so im releasing this poop enjoy</h3>
+  <h3 align="center">A Superium Discord bot written in node.js that allows you to view user and asset info.</h3>
 
   <p align="center">
+    someone stole my bot token so im releasing this poop enjoy<br />
     yeah u need some coding skills to get this to work, i mean its easy but who cares
     <br />
     u can use my command handler if u want
