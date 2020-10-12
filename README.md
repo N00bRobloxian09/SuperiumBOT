@@ -2,6 +2,12 @@
 ![Downloads](https://img.shields.io/github/downloads/N00bRobloxian09/SuperiumBOT/total?style=plastic)
 [![HitCount](http://hits.dwyl.com/N00bRobloxian09/SuperiumBOT.svg)](http://hits.dwyl.com/N00bRobloxian09/SuperiumBOT)
 <br />
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
 <a> stats for weird people </a>
 
 <br />
@@ -29,5 +35,26 @@
     ·
     <a href="#">Request Feature (dm me N00bRobloxian09#8812)</a>
   </p>
+  <a href="#">Comamnd List:</a>
+  <table>
+  <tr>
+    <th>!lat-item</th>
+    <th>Gets the latest item published</th>
+  </tr>
+  <tr>
+    <td>!user (name)</td>
+    <td>Sends a basic information about a user</td>
+  </tr>
+  <tr>
+    <td>!verify</td>
+    <td>Verifier, simillar to bloxlink</td>
+  </tr>
+  <tr>
+    <td>!item (id)</td>
+    <td>Sends a basic information about a item</td>
+  </tr>
+</table>
+  
+  
 </p>
 
